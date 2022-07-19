@@ -4,12 +4,12 @@
         <persona nombre="arturo ">
             <apellido>perez</apellido>
             <cedula>28680741</cedula>
-            <correo>arjperez@31gmail.com</correo>
+            <correo>arjperez31gmail.com</correo>
         </persona>
-        <persona nombre="jose">
-            <apellido>perez</apellido>
-            <cedula>286963969</cedula>
-            <correo>ajnejel</correo>
+        <persona nombre="jose ">
+            <apellido>guedes</apellido>
+            <cedula>28693205</cedula>
+            <correo>clonetuculoggmail.com</correo>
         </persona>
     </personas>
 </DatosPersonas>
