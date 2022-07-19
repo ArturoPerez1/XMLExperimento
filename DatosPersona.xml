@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DatosPersonas>
+    <personas>
+        <persona nombre="arturo ">
+            <apellido>perez</apellido>
+            <cedula>28680741</cedula>
+            <correo>arjperez@31gmail.com</correo>
+        </persona>
+        <persona nombre="jose">
+            <apellido>perez</apellido>
+            <cedula>286963969</cedula>
+            <correo>ajnejel</correo>
+        </persona>
+    </personas>
+</DatosPersonas>
